@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 2, 2017, 2:22:02 PM
+    Author     : PC 10
+*/
+
+@font-face{font-family:'Roboto500';
+           src:url(../fonts/Roboto500.ttf) format('truetype');
+            }
+            
+ @font-face{font-family:'Montserrat-Light';
+           src:url(../fonts/Montserrat-Light.ttf) format('truetype');
+            }
+            
+@font-face{font-family:'Montserrat-Medium';
+           src:url(../fonts/Montserrat-Medium.ttf) format('truetype');
+            }        
+            
+.current-event h3{
+     font-size: 12pt;
+    font-family: Montserrat-Light;
+    color: #000000;
+    text-transform: capitalize;
+}
+
+.event h2{
+    font-size: 14pt;
+    font-family: HelveticaNeueLight;
+    color: #000;
+	text-transform: capitalize;
+}
+
+.event p{
+     font-size: 10pt;
+    font-family: Montserrat-Light;
+    color: #000000;
+    text-transform: capitalize;
+}
+.event_heading h4{
+    font-size: 14pt;
+    font-family: HelveticaNeueLight;
+    color: #000;
+	text-transform: capitalize;
+	    line-height: 6px;
+   
+}
+.event_heading p{
+  font-size: 21pt;
+    font-family: Montserrat-Light;
+    color: #000000;
+    text-transform: capitalize;  
+   
+}
+
+
+

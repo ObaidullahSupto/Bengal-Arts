@@ -1,0 +1,15 @@
+/* Flot plugin for selecting regions of a plot.
+
+Copyright (c) 2007-2014 IOLA and Ole Laursen.
+Licensed under the MIT license.
+
+The plugin supports these options:
+
+selection: {
+	mode: null or "x" or "y" or "xy",
+	color: color,
+	shape: "round" or "miter" or "bevel",
+	minSize: number of pixels
+}
+
+Selec

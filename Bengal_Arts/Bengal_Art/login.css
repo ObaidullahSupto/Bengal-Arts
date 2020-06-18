@@ -1,0 +1,106 @@
+html,body
+		{
+		padding:0px;
+		margin:0px;
+		text-align:center;
+		color:#000000;
+		font-size:14px;
+		background-color:#80848a;
+		font-family:Verdana, Geneva, sans-serif;
+		}
+h2
+		{
+		font-size:20px;
+		margin:0px;
+		color:#fff;
+		}
+
+#login-wrapper
+		{
+		margin-top:250px;
+		margin-right:auto;
+		margin-bottom:20px;
+		margin-left:auto;
+		}
+
+#loginform
+		{
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:0px;
+		margin-bottom:0px;
+		width:250px;
+		height:auto;
+		padding:15px 60px;
+		border-radius:10px;
+		background-color:#F5F5F5;
+		box-shadow:0 0 20px #333333;
+		background-color:#454c58;
+		}
+
+.email{
+		color:#72b56a;
+		font-size:16px;
+		font-weight:
+	}
+	
+.pass{
+		  color:#72b56a;
+		  font-size:16px;
+		  font-weight:
+
+   }	
+#loginform ul
+		{
+		padding:0px;
+		list-style:none;
+		margin:0 0 20px 0;
+		}
+
+#loginform ul li
+		{
+		padding:5px 5px 5px 0;
+		margin-left:0px;
+		}
+
+#loginform input[type="text"], #loginform ul li input[type="password"]
+		{
+		border: #999  1px solid;
+		border-radius: 3px;
+		margin-top:2px;
+		padding: 4px;
+		width: 190px;
+		height: 40px; 
+		font-size: 18px;
+		background-color:#435769;
+		color:white;
+		}
+		
+#loginform ul li input[type="submit"]
+		{
+		border: #999  0px solid;
+		border-radius: 20px;
+		margin-top:2px;
+		padding: 0px;
+		width:80px;
+		height: 45px;
+		float:right;
+		background-color:#454C58;
+		color:white;
+		font-weight:bold;
+		}		
+
+#loginform input[type="submit"]:hover
+		{
+		background-color:#435769;
+		
+		}	
+a
+		{
+		text-decoration:none;
+		color:#72b56a;
+		}	
+a:hover
+		{
+		color:green;
+		}		

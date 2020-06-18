@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 9, 2017, 6:42:14 PM
+    Author     : PC 10
+*/
+
+@font-face{font-family:'Roboto500';
+           src:url(../fonts/Roboto500.ttf) format('truetype');
+            }
+            
+ @font-face{font-family:'Montserrat-Light';
+           src:url(../fonts/Montserrat-Light.ttf) format('truetype');
+            }
+            
+@font-face{font-family:'Montserrat-Medium';
+           src:url(../fonts/Montserrat-Medium.ttf) format('truetype');
+            }
+.image_caption{
+    color: #000000;
+    margin-top: 10px;
+    font-family: HelveticaNeueLight;
+    font-weight: bold;
+    margin-bottom: 35px;
+   
+}
+.search_heading h3 {
+    font-family: HelveticaNeueLight;
+    font-size: 14pt;
+    color: #000000;
+     font-weight: none;
+}
+.latter {
+    padding: 30px 0px 30px 0px;
+}
+.latter span a{
+    text-transform: capitalize;
+    padding: 11px;
+    text-decoration: none;
+    color: #A3A5A8;
+    font-family: HelveticaNeueLight;
+    font-size: 10pt;
+}
+.latter span a:hover {
+    color: #000000;
+}
+.artist_name ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-family: HelveticaNeueLight;
+    font-size: 10pt;
+     font-weight: none;
+}
+.list-inline li {
+    padding-left: 2px;
+   
+}
+.list-inline li a {
+    text-decoration: none;
+    color: #A2A4A7;
+    font-family: HelveticaNeueLight;
+    font-size: 12pt;
+}
+.michael p{
+    margin: 15px 0px 0px;
+    color: #000000;
+    font-family: HelveticaNeueLight;
+    font-size: 8pt;
+    font-weight: bold;
+}
+.michael_top{
+    margin-top: 40px;
+}
